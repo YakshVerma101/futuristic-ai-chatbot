@@ -1,33 +1,33 @@
-# 🤖 NeuralBot - Futuristic AI Chatbot
+#  NeuralBot - Futuristic AI Chatbot
 
 A cutting-edge, futuristic AI chatbot with voice input/output capabilities, built with modern web technologies and featuring a stunning neural network-inspired design.
 
 ![NeuralBot Preview](https://via.placeholder.com/800x400/0a0a0f/00d4ff?text=NeuralBot+Preview)
 
-## ✨ Features
+##  Features
 
-### 🎯 Core Functionality
-- **AI-Powered Conversations**: Intelligent responses powered by OpenAI's GPT models
+###  Core Functionality
+- **AI-Powered Conversations**: Intelligent responses powered by GROK
 - **Voice Input**: Speech-to-text functionality for hands-free interaction
 - **Voice Output**: Text-to-speech with customizable voice settings
 - **Real-time Chat**: Instant messaging with typing indicators
 - **Conversation History**: Persistent chat history with timestamps
 
-### 🎨 Futuristic Design
+###  Futuristic Design
 - **Neural Network Theme**: Animated background with floating nodes and particles
 - **Multiple Themes**: Neural Blue, Cyber Green, and Quantum Purple
 - **Smooth Animations**: Fluid transitions and hover effects
 - **Responsive Design**: Works perfectly on desktop, tablet, and mobile
 - **Glass Morphism**: Modern UI with backdrop blur effects
 
-### 🔧 Advanced Features
+###  Advanced Features
 - **Voice Controls**: Toggle voice input/output with visual feedback
 - **Settings Panel**: Customize voice speed, pitch, and theme
 - **Keyboard Shortcuts**: Quick access to common functions
 - **Rate Limiting**: Built-in protection against spam
 - **Error Handling**: Graceful fallbacks and user-friendly error messages
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Prerequisites
 - Node.js 14.0.0 or higher
@@ -71,7 +71,7 @@ npm run dev
 ```
 This will start the server with auto-reload on file changes.
 
-## 🎮 Usage
+##  Usage
 
 ### Basic Interaction
 1. **Text Input**: Type your message in the input field and press Enter or click Send
@@ -92,7 +92,7 @@ Access settings by clicking the gear icon or using `Ctrl/Cmd + ,`:
 - **Auto TTS**: Automatically speak bot responses
 - **Theme**: Switch between Neural Blue, Cyber Green, and Quantum Purple
 
-## 🛠️ Configuration
+##  Configuration
 
 ### Environment Variables
 
@@ -112,7 +112,7 @@ Access settings by clicking the gear icon or using `Ctrl/Cmd + ,`:
 3. Add the key to your `.env` file
 4. Restart the server
 
-## 🎨 Customization
+##  Customization
 
 ### Themes
 The chatbot supports three built-in themes:
@@ -132,7 +132,7 @@ The chatbot supports three built-in themes:
 - **Layout**: Modify flexbox and grid layouts
 - **Typography**: Change font families and sizes
 
-## 🔧 API Endpoints
+##  API Endpoints
 
 ### POST `/api/chat`
 Send a message to the AI chatbot.
@@ -185,7 +185,7 @@ Check server health and configuration.
 }
 ```
 
-## 🌐 Browser Support
+##  Browser Support
 
 ### Required Features
 - **Web Speech API**: For voice input/output
@@ -204,7 +204,7 @@ Check server health and configuration.
 - Chrome Mobile 25+
 - Samsung Internet 4.0+
 
-## 🚀 Deployment
+##  Deployment
 
 ### Heroku
 1. Create a Heroku app
@@ -230,7 +230,7 @@ EXPOSE 3000
 CMD ["npm", "start"]
 ```
 
-## 🤝 Contributing
+##  Contributing
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/amazing-feature`)
@@ -244,24 +244,19 @@ CMD ["npm", "start"]
 - Test on multiple browsers
 - Update documentation for new features
 
-## 📝 License
+##  License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
-- **OpenAI** for providing the GPT API
+- **GROK** for providing the GROK API
 - **Font Awesome** for the beautiful icons
 - **Google Fonts** for the futuristic typography
 - **Web Speech API** for voice capabilities
 
-## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/futuristic-chatbot/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/futuristic-chatbot/discussions)
-- **Email**: support@neuralbot.ai
-
-## 🔮 Roadmap
+##  Roadmap
 
 ### Version 1.1
 - [ ] Multi-language support
